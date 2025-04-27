@@ -3,7 +3,7 @@ I love bringing ideas to life through code, with a focus on clean architecture, 
 
 🔹 Skills:
 
-Languages: Python, JavaScript
+Languages: Python
 
 Frameworks & Libraries: Django, Express.js, Pytest
 
